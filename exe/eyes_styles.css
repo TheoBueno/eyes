@@ -1,0 +1,77 @@
+/* Notes were added to easy any "future me" alterations*/
+* { /*Removes pre-existing configurations*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* color: #fff; */
+  font-family: "Poppins", sans-serif; /* good 'Internet' look in general */
+}
+
+body {
+	background: #187795;
+	overflow-x: hidden;
+	padding-bottom: 50px;
+}
+/* NAVBAR STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.navbar{
+  padding: 0;
+}
+
+/* EYES STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+body {
+  margin: 0;
+  padding: 0;
+  background: #187795;
+}
+
+.eyes {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+.eye {
+  width: 240px;
+  height: 120px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
+.ball {
+  width: 80px;
+  height: 80px;
+  background: #2E294E;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+/* FOOTER STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.page-footer {
+  position: fixed;
+  right: 0;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.65);
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
+}
+
