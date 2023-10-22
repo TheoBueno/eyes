@@ -16,6 +16,10 @@ individual tracking.
 ## Appearance:
 <img src= "eyes_readme_pic.png" width='300'/>
 
+## Links:
+[Exercise](https://theobueno.github.io/eyes/exe/index.html)
+[Repository](https://github.com/TheoBueno/eyes.git/)
+
 ## License information: 
 
 MIT License
